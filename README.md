@@ -1,9 +1,9 @@
 # Dependency
-pip install pandas
-pip install chart-studio
-pip install ipython
-pip install scipy 
-pip install nbformat
+pip install pandas  
+pip install chart-studio  
+pip install ipython  
+pip install scipy  
+pip install nbformat  
 pip install notebook 
 
 # execute
